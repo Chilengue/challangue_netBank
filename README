@@ -1,0 +1,14 @@
+challangue jogoobjectToFormat 
+
+garantir que que s minas nao sejam reptidas
+criar um programa que assimla um jogo  de campo minado
+criar uma grade que representa o tabuleiro r
+
+
+for(int i=0; i<tamanho.length; i++){
+    System.out.println("tamanho de tabuleiro eL: " +  tamanho[i]);
+}
+
+boolean encontrarMinas =false;
+
+for()
